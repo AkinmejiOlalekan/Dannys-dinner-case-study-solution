@@ -1,4 +1,4 @@
-#Danny's dinner case study Introduction
+# Introduction
 
 Danny seriously love Janpanese food so in the beginning of 2021, he decided to embark upon a risky venture and opens
 up a cute little restaurant that sells his 3 favorite foods: sushi, curry and ramen.
@@ -6,7 +6,7 @@ up a cute little restaurant that sells his 3 favorite foods: sushi, curry and ra
 Danny needed an assitant to help keep the restaurance stay afloat. The restaurant captured some very basic data from
 few months of their operation but have no idea of how to use the data to help them run the business.
 
-##Problem Statement
+## Problem Statement
 
 Danny wants to use the data to answer a few simple questions about how his customers patronized him, especially about
 their visiting patterns, how much each of them spent and their favorite items.
@@ -18,7 +18,7 @@ Danny provided three key datasets for this case study;
 2. Menu
 3. Members
 
-##Business Questions that needed and answer
+## Business Questions that needed and answer
 
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
