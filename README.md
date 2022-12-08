@@ -18,7 +18,9 @@ Danny provided three key datasets for this case study;
 2. Menu
 3. Members
 
-## Business Questions that needed and answer
+NB: No cleaning was made because the data provided is a clean data
+
+## Business Questions that needed an answer
 
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
